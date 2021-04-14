@@ -1,0 +1,22 @@
+.right-top{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.btn-heart{
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+.rating{
+    background-color: #93c!important;
+    padding: 2px 8px;
+    font-weight: 500;
+    border-radius: 4px;
+    color: #adafae;
+}
